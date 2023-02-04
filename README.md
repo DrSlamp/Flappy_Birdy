@@ -16,6 +16,10 @@ added:
 - landscape changed
 
 
+Use make main 
 
+
+requeriments: C++, clang.
+linux OS 
 
 
