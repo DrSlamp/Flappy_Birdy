@@ -19,7 +19,7 @@ added:
 Use make main 
 
 
-requeriments: C++, clang.
+requeriments: C++, clang. SFML.
 linux OS 
 
 
