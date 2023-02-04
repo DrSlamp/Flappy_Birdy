@@ -10,7 +10,7 @@ Highlights:
 added:
 - Menu (choose difficulty) * Normal mode include Hard improvements* 
 - Pause State ( PRESS P to pause )
-- Bird movement ( D to right, A to left and S break to Brake System)
+- Bird movement ( D to right, A to left and S  to Brake System)
 - change log 
 - bird graphics changed
 - landscape changed
